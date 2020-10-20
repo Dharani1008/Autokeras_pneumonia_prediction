@@ -1,1 +1,0 @@
-# Autokeras_pneumonia_prediction
