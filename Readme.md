@@ -1,4 +1,4 @@
-# Auto-Keras-ImageClassifier-Tutorial
+# Auto-Keras-Pneumonia prediction
 
 
 ## Installation
