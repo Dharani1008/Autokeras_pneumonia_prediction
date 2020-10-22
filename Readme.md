@@ -1,7 +1,18 @@
 # Auto-Keras-Pneumonia prediction
+## REST API SETUP
+### Download Anaconda 5.3.0 or above
+wget https://repo.anaconda.com/archive/Anaconda3-2020.02-Linux-x86_64.sh
+### Install Anaconda
+bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh
 
+### Create conda environment
+conda create -n ak python=3.6 anaconda
 
-## Installation
+### Activate the environment
+conda activate ak
+
+### Clone the repo
+git clone https://github.com/Dharani1008/Autokeras_pneumonia_prediction
 
 
 To install Auto-Keras please use the `pip` installation as follows:
